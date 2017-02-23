@@ -1,0 +1,1 @@
+# Schelling-Segregation-Model
